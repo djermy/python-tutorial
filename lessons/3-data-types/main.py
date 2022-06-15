@@ -1,13 +1,6 @@
-# lesson 1, print.
-print("hello world!")
-
-# lesson 2, variables.
-country = "britain"
-print(country)
-
 # lesson 3, data types.
 # integers are whole numbers.
-# age = 25
+# git@github.com:djermy/python-tutorial.gitage = 25
 # floats are real numbers with decimal points.
 money = 3.50
 
